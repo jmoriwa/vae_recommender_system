@@ -11,3 +11,5 @@ This project implements a **Variational Autoencoder (VAE)** for generating movie
 1. Load the dataset (`movies.csv` and `ratings.csv`) from https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset.
 2. Train the VAE or load pre-trained weights.
 3. Evaluate metrics and generate recommendations.
+
+This project was developed referencing the paper https://arxiv.org/abs/1808.01006
